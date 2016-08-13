@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskApplication</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="none" />
+</resources>
